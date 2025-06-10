@@ -43,7 +43,7 @@ Netflix offers a **high number of International Movies and Dramas**, making thes
 
 ## Files Included
 
-- `netflix_genre_analysis.ipynb` — Jupyter notebook with full code
+- `loaddata.ipynb` — Jupyter notebook with full code
 - `top_netflix_genres.png` — The final bar chart
 
 ---
